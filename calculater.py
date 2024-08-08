@@ -1,6 +1,6 @@
 print ("menu:")
 print("jam=1")
-print("menha=2)
+print("menha=2")
 print("zarb=3")
 print("taghsim=4")
 z=inr(input("enter your num"))
